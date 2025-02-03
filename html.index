@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -203,7 +203,7 @@
         <div class="audio-player">
             <h2>Boli bol</h2>
             <audio controls>
-                <source src="https://github.com/user-attachments/assets/599aaa87-4d0c-43ef-8c29-914eb3c4e59e.mp4" type="audio/mp4">
+                <source src="Boli bol Master Pop, Master Sequoia Pop.mp3" type="audio/mpeg">
                 Tu navegador no admite la reproducción de audio.
             </audio>
         </div>
@@ -289,10 +289,4 @@
     </footer>
 </body>
 </html>
-
-
-
-
-
-
 
