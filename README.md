@@ -219,7 +219,7 @@
         <div class="audio-player">
             <h2>Mister Mario</h2>
             <audio controls>
-                <source src="Mister Mario Master Pop, Master Sequoia Pop.mp3" type="audio/mpeg">
+                <source src="https://github.com/user-attachments/assets/44b73c48-7e58-4500-88a7-3b88bdc45ae4" type="audio/mp4">
                 Tu navegador no admite la reproducción de audio.
             </audio>
         </div>
@@ -227,7 +227,7 @@
         <div class="audio-player">
             <h2>No Argentina</h2>
             <audio controls>
-                <source src="No Argentina Master Pop, Master Sequoia Pop.mp3" type="audio/mpeg">
+                <source src="https://github.com/user-attachments/assets/ef859ba9-d70a-4ed2-95db-b08c7df5c9f6" type="audio/mp4">
                 Tu navegador no admite la reproducción de audio.
             </audio>
         </div>
@@ -235,7 +235,7 @@
         <div class="audio-player">
             <h2>No quieres mi amor</h2>
             <audio controls>
-                <source src="No quieres mi amor Master Pop, Master Sequoia Pop.mp3" type="audio/mpeg">
+                <source src="https://github.com/user-attachments/assets/10505052-a663-4f37-85b2-1a510c1aac22" type="audio/mp4">
                 Tu navegador no admite la reproducción de audio.
             </audio>
         </div>
@@ -243,7 +243,7 @@
         <div class="audio-player">
             <h2>Oye tú ver al fin</h2>
             <audio controls>
-                <source src="Oye tú ver al fin Master Pop, Master Sequoia Pop.mp3" type="audio/mpeg">
+                <source src="https://github.com/user-attachments/assets/31d8784b-54b3-4682-a98d-1636ce8a605a" type="audio/mp4">
                 Tu navegador no admite la reproducción de audio.
             </audio>
         </div>
@@ -251,7 +251,7 @@
         <div class="audio-player">
             <h2>Salados</h2>
             <audio controls>
-                <source src="Salados Master Pop, Master Sequoia Pop.mp3" type="audio/mpeg">
+                <source src="https://github.com/user-attachments/assets/399039fb-0fca-4965-8c19-67bc5f64a2cd" type="audio/mp4">
                 Tu navegador no admite la reproducción de audio.
             </audio>
         </div>
@@ -259,7 +259,7 @@
         <div class="audio-player">
             <h2>Santa Cecilia</h2>
             <audio controls>
-                <source src="Santa Cecilia Master Pop, Master Sequoia Pop.mp3" type="audio/mpeg">
+                <source src="https://github.com/user-attachments/assets/6dee3070-8007-4d40-9a37-8c9dcbf32d10" type="audio/mp4">
                 Tu navegador no admite la reproducción de audio.
             </audio>
         </div>
@@ -267,7 +267,7 @@
         <div class="audio-player">
             <h2>Thanks</h2>
             <audio controls>
-                <source src="Thanks Master Pop, Master Sequoia Pop.mp3" type="audio/mpeg">
+                <source src="https://github.com/user-attachments/assets/3cda7a51-4c44-43ed-9d35-4770ded3dfc1" type="audio/mp4">
                 Tu navegador no admite la reproducción de audio.
             </audio>
         </div>
@@ -289,8 +289,4 @@
     </footer>
 </body>
 </html>
-
-
-
-
 
